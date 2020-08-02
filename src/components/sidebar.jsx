@@ -42,7 +42,7 @@ export default class Sidebar extends Component {
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
               </small></p>
             </div>
-            <div align="center">Site visitors till now: <a href="https://www.counter12.com"><img src="https://www.counter12.com/img-42501d3yCw7axCZ5-3.gif" alt="free counter" border="{0}" /></a>
+            <div align="center" id="counter">Site visitors till now: <a href="https://www.counter12.com"><img src="https://www.counter12.com/img-42501d3yCw7axCZ5-3.gif" alt="free counter" border="{0}" /></a>
             </div>
 
           </aside>
