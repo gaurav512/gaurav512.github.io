@@ -54,7 +54,7 @@ export default class Skills extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development</h3>
-                    <p>I have knowledge of front-end web development and responsive frameworks like React.</p>
+                    <p>I have knowledge of front-end web development, responsive frameworks and React.</p>
                 </div>
                 </div>
             </div>

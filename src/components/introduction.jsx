@@ -23,16 +23,15 @@ export default class Introduction extends Component {
                 </div>
                
               </li>
-              <li style={{backgroundImage: 'url(images/bgnew.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/imgbg.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <p id="temp">Hi! I'm<br/><span id="namegrv">Gaurav</span><br/></p>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1X0I9aVLublR6y6YdHLb9ty_efAHb2VUm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume<i className="icon-download4" /></a></p>
-                        </div>
+                            <p id="temp2">I want to <br/><span id="build"><b>BUILD THINGS</b></span><br/>that<br/><span id="make"><b> MAKE A DIFFERENCE</b></span></p>
+                          </div>
                       </div>
                     </div>
                   </div>

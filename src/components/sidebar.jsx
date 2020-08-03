@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import ScriptTag from 'react-script-tag';
 
 const Demo = props => (
-<ScriptTag src="https://www.counter12.com/ad.js?id=42501d3yCw7axCZ5" />
+<ScriptTag src="https://www.counter12.com/ad.js?id=zZxzwc109x9d72Z9" />
 );
 export default class Sidebar extends Component {
   render() {
@@ -42,7 +42,7 @@ export default class Sidebar extends Component {
                   Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
               </small></p>
             </div>
-            <div align="center" id="counter">Site visitors till now: <a href="https://www.counter12.com"><img src="https://www.counter12.com/img-42501d3yCw7axCZ5-3.gif" alt="free counter" border="{0}" /></a>
+            <div align="center" id="counter">Site visitors till now: <a href="https://www.counter12.com"><img src="https://www.counter12.com/img-zZxzwc109x9d72Z9-3.gif" alt="free counter" border="{0}" /></a>
             </div>
 
           </aside>
